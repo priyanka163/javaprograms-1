@@ -4,6 +4,8 @@ class Demo
  {
   System.out.println("Hello");
     System.out.println("bye");
+      System.out.println(" hi bye");
+
 
  }
 }
